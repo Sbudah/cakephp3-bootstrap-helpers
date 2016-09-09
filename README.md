@@ -1,4 +1,4 @@
-CakePHP 3.x Helpers for Bootstrap
+CakePHP 3.x Helpers for Material Design Lite
 =================================
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
@@ -13,7 +13,7 @@ How to... ?
 
 If you want the latest **Bootstrap 3** version of the plugin:
 ```
-composer require holt59/cakephp3-bootstrap-helpers:dev-master
+composer require Sbudah/cakephp3-mdl-helpers:dev-master
 ```
 ```php
 // in config/bootstrap.php
